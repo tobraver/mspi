@@ -1,4 +1,4 @@
 # Project
 
-spi with different system.
+spi with different plateform.
 
